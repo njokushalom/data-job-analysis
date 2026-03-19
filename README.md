@@ -6,7 +6,7 @@ In this project, I explore the main objective of analyzing job trends within the
 
 ---
 
-## 🔹 Scenario Manager
+## Scenario Manager
 
 Let’s consider a real-life situation.
 
@@ -27,7 +27,7 @@ Using Scenario Manager, I created multiple compensation scenarios that automatic
 
 ---
 
-## 🔹 Taking It Further: Solver
+## Taking It Further: Solver
 
 Now, let’s take it a step further.
 
@@ -64,7 +64,7 @@ Makes negotiation much easier right?
 
 ---
 
-## 🔹 Conclusion
+## Conclusion
 
 This project demonstrates how Excel tools like Scenario Manager and Solver can transform decision-making. Instead of guessing, we analyze, simulate, and optimize - just like true data analysts.
 
