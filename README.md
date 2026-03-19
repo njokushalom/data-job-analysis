@@ -66,9 +66,9 @@ Makes negotiation much easier right?
 
 ## 🔹 Conclusion
 
-This project demonstrates how Excel tools like Scenario Manager and Solver can transform decision-making. Instead of guessing, we analyze, simulate, and optimize—just like true data analysts.
+This project demonstrates how Excel tools like Scenario Manager and Solver can transform decision-making. Instead of guessing, we analyze, simulate, and optimize - just like true data analysts.
 
-But this is just the beginning.
+**But this is just the beginning**.
 
 In the next series, we’ll take this analysis even further - introducing more advanced techniques, deeper insights, and smarter ways to make data-driven decisions in real-world scenarios.
 
