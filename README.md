@@ -21,7 +21,9 @@ In this analysis, I evaluated **10 data job offers**, each with a base salary of
 
 Using Scenario Manager, I created multiple compensation scenarios that automatically calculate total earnings based on these variables.
 
-![Scenario Manager](scenario.png)
+<img width="1722" height="301" alt="image" src="https://github.com/user-attachments/assets/43f73c9e-16d4-4acc-b2de-40d3111b62c2" />
+
+
 
 ---
 
@@ -41,19 +43,36 @@ In this case:
 It answers the question:  
 **“What bonus and raise structure do I need?”**
 
-![Solver](solver.png)
+Lets see initial vales below
 
----
 
-## 🔹 Key Insight
+<img width="316" height="336" alt="image" src="https://github.com/user-attachments/assets/0f94efb1-fad5-4ba3-a53c-edb1e84a75c0" />
+
+And then with solver
+
+<img width="1271" height="581" alt="image" src="https://github.com/user-attachments/assets/03b70924-cd7d-4c79-9630-651c43314e16" />
+
+
 
 With Solver, both the bonus and annual raise are automatically adjusted to meet a defined salary goal. This makes salary negotiation more data-driven and strategic.
+
+<img width="472" height="444" alt="image" src="https://github.com/user-attachments/assets/03a4e566-3cf7-4324-aa11-ad894843bb3f" />
+
+We can see that our bonus has been automatically adjusted and annual raise to give us our desired salary. 
+
+Makes negotiation much easier right?
 
 ---
 
 ## 🔹 Conclusion
 
-This project demonstrates how Excel tools like Scenario Manager and Solver can transform decision-making.
+This project demonstrates how Excel tools like Scenario Manager and Solver can transform decision-making. Instead of guessing, we analyze, simulate, and optimize—just like true data analysts.
+
+But this is just the beginning.
+
+In the next series, we’ll take this analysis even further - introducing more advanced techniques, deeper insights, and smarter ways to make data-driven decisions in real-world scenarios.
+
+Stay curious, stay analytical… and I’ll see you in the next one.
 
 ---
 
